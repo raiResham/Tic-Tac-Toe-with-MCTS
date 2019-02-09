@@ -18,7 +18,7 @@ public class TicTacToeGame {
 	
 	// 0 = Human
 	// 1 = AI
-	private int player = 0;
+	private int player = 1;
 	Scanner scanner = new Scanner(System.in);
 	
 	Random rand = new Random();
